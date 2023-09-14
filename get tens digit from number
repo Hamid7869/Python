@@ -1,0 +1,5 @@
+integer = int(input())
+integer = str(integer)
+tens = integer[-2]
+tens = int(tens)
+print(tens)
